@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    font-size: 12px;
+    color: blue;
+}
+h1 {
+    font-family: 'Times New Roman';
+    color: orange;
+}
+p{
+    color: cadetblue;
+    font-family: Verdana, Helvetica, sans-serif;
+}
+.site{
+    background-color: rgba(45, 119, 22, 0.315);
+    color: white;
+    font-weight: bold;
+}
+.nav{
+    background-color: mediumaquamarine;
+    color: white;
+    font-weight: bold;
+}
+.header{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+.content{
+    background-color: royalblue;
+    color: white;
+    font-weight: bold;
+}
+.footer{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+/*
+    AUFGABE
+    1) Passe die Farbe des <h1>-Tags an auf orange
+    2) Passe den Schrifttyp des <p>-Tags an in Verdana
+*/
